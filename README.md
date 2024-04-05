@@ -1,1 +1,1 @@
-i quit
+print("how to use")
